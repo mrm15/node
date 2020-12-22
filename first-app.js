@@ -1,4 +1,4 @@
 
-const fs= require('fs');
-fs.writeFileSync('Hello.txt','hello from node js dear');
+const fs = require('fs');
+fs.writeFileSync('Hello.txt', 'hello from node js dear');
 // this is comment
